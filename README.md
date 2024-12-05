@@ -42,7 +42,7 @@
     <main>
         <section id="home">
             <h2>Главная страница</h2>
-            <img src="https://jjtv.kz/storage/images/media/k2/items/cache/bbca330690969421c32bb118ff362614_XL.jpg?t=20211111_114720" width="828" height="513">
+            <img src="https://jjtv.kz/storage/images/media/k2/items/cache/bbca330690969421c32bb118ff362614_XL.jpg?t=20211111_114720" width="628" height="313">
             <p>Добро пожаловать на Гали Орманов где учится Алмасек Сардарек Адлетек</p>
         </section>
         <section id="news">
@@ -51,11 +51,11 @@
             <h1>Адал ұрпақ 28.11.2023</h1>
             <img src="images/adl.jpg" width="400" height="369">
             <h1>Кубок региона 01.10.2024</h1>
-            <img src="images/ftbll.jpg" width="960" height="700" alt="Сборный Г.Орманова">
+            <img src="images/ftbll.jpg" width="660" height="400" alt="Сборный Г.Орманова">
             <h1>Айбын</h1>
-            <img src="images/srd.jpg" width="676" height="561">
+            <img src="images/srd.jpg" width="376" height="261">
             <h1>Bыпускники 25.05.2025</h1>
-            <img src="images/vps.jpg" width="1280" height="960" alt="VPS yhis year">
+            <img src="images/vps.jpg" width="980" height="660" alt="VPS yhis year">
         </section>
         <section id="about">
             <h1>Средняя школа по имени Гали Орманова</h1>
